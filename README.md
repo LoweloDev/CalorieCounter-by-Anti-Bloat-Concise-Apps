@@ -1,3 +1,5 @@
+# NOTE: DEVELOPER WEBSITE COMING SOON
+
 # SFCC - Simple F*king Calorie Counter
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=49FYWEP529NH6)
